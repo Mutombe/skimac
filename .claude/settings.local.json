@@ -4,7 +4,9 @@
       "Bash(dir:*)",
       "Bash(npm install:*)",
       "Bash(npm run dev:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nComplete world-class website redesign with ultimate design skills\n\nMajor Features:\n- Complete redesign of all 6 pages with unique layouts\n- Home: Cinematic storytelling with 3D parallax hero\n- About: Magazine editorial layout with bento box grid\n- Services: Interactive expandable panels with smooth animations\n- Projects: Masonry grid with advanced filtering and lightbox\n- Products: 3D showcase with image carousel and tabbed details\n- Contact: Split-screen with multi-step validated form\n\nTechnical Enhancements:\n- Enhanced navbar with page-specific backgrounds and scroll behavior\n- Mega footer with newsletter signup\n- Smooth page transitions with Framer Motion\n- Custom hooks \\(useScrollProgress, useMousePosition, useInView\\)\n- Comprehensive design system with 100+ utility classes\n- Loading states and skeleton loaders\n- Mobile-responsive across all pages\n\nEffects & Animations:\n- 3D parallax and perspective transforms\n- Floating geometric shapes and gradient blobs\n- Magnetic and tilt interactions\n- Scroll-triggered animations\n- Character-by-character text reveals\n- Advanced Framer Motion layoutId animations\n\nColor Palette: Red \\(#D32F2F\\), Gray, Black \\(#212121\\), White\n\n🤖 Generated with Claude Code \\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)"
     ]
   }
 }
